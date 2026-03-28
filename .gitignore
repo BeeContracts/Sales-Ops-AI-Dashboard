@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+llm_config.local.json
+.vscode/
+.DS_Store

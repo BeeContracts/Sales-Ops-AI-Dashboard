@@ -1,0 +1,3 @@
+# Standard library app by default
+# Optional packaging dependency:
+# pyinstaller

@@ -1,0 +1,6 @@
+{
+  "provider": "openai_or_claude",
+  "api_key": "XXXXXXXXXXXXXXXXXXXXXXXX",
+  "model": "________________________",
+  "enabled": false
+}
